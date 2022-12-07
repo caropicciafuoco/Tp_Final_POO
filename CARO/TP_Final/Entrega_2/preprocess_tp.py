@@ -14,4 +14,10 @@ def producto_sucursal_unicos(df):
     df = df.drop(columns =['prod-suc'])
     return df
 
-
+def cadena(prediction):
+    if prediction == 0:
+        return "Disco"
+    elif prediction == 1:
+        return "Hipermercado Carrefour"
+    elif prediction == 2:
+        return "Supermercados Dia"

@@ -1,0 +1,1730 @@
+categoria,marca,presentacion,precio,tipo_cadena,cadena,unidad_presentacion
+Agua,VILLAVICENCIO,1.5,70.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,85.0,Supermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,69.0,Supermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,75.5,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,73.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,72.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,88.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,83.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,79.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,47.1,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,73.69,Autoservicio,Supermercados DIA,lt
+Agua,VILLAVICENCIO,1.5,71.0,Supermercado,Supermercados DIA,lt
+Agua,VILLAVICENCIO,1.5,79.0,Supermercado,Disco,lt
+Agua,VILLAVICENCIO,1.5,85.0,Supermercado,Disco,lt
+Agua,VILLAVICENCIO,1.5,76.49,Supermercado,Disco,lt
+Agua,VILLAVICENCIO,1.5,70.0,Supermercado,Disco,lt
+Agua,VILLAVICENCIO,1.5,72.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,84.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,79.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,69.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,47.1,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,73.69,Supermercado,Supermercados DIA,lt
+Agua,VILLAVICENCIO,1.5,76.49,Supermercado,Disco,lt
+Agua,VILLAVICENCIO,1.5,79.0,Supermercado,Disco,lt
+Agua,VILLAVICENCIO,1.5,72.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,79.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,69.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,70.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,73.69,Supermercado,Supermercados DIA,lt
+Agua,VILLAVICENCIO,1.5,71.0,Autoservicio,Supermercados DIA,lt
+Agua,VILLAVICENCIO,1.5,85.0,Supermercado,Disco,lt
+Agua,SER,1.5,50.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,SER,1.5,49.4,Supermercado,Hipermercado Carrefour,lt
+Agua,SER,1.5,70.0,Supermercado,Hipermercado Carrefour,lt
+Agua,SER,1.5,66.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,SER,1.5,51.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,SER,1.5,49.0,Supermercado,Hipermercado Carrefour,lt
+Agua,SER,1.5,60.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,SER,1.5,56.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,SER,1.5,55.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,SER,1.5,48.4,Hipermercado,Hipermercado Carrefour,lt
+Agua,SER,1.5,74.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,SER,1.5,68.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,SER,1.5,58.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,SER,1.5,34.6,Hipermercado,Hipermercado Carrefour,lt
+Agua,SER,1.5,53.89,Autoservicio,Supermercados DIA,lt
+Agua,SER,1.5,54.75,Autoservicio,Supermercados DIA,lt
+Agua,SER,1.5,50.0,Supermercado,Supermercados DIA,lt
+Agua,SER,1.5,54.45,Autoservicio,Supermercados DIA,lt
+Agua,SER,1.5,59.0,Supermercado,Disco,lt
+Agua,SER,1.5,56.09,Supermercado,Disco,lt
+Agua,SER,1.5,66.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,SER,1.5,71.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,SER,1.5,55.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,SER,1.5,56.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,SER,1.5,34.6,Hipermercado,Hipermercado Carrefour,lt
+Agua,SER,1.5,54.45,Supermercado,Supermercados DIA,lt
+Agua,SER,1.5,53.89,Autoservicio,Supermercados DIA,lt
+Agua,SER,1.5,56.09,Supermercado,Disco,lt
+Agua,SER,1.5,50.0,Supermercado,Disco,lt
+Agua,SER,1.5,66.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,SER,1.5,55.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,SER,1.5,56.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,SER,1.5,57.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,SER,1.5,50.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,SER,1.5,54.45,Supermercado,Supermercados DIA,lt
+Agua,SER,1.5,54.75,Autoservicio,Supermercados DIA,lt
+Agua,SER,1.5,50.0,Autoservicio,Supermercados DIA,lt
+Agua,SER,1.5,59.0,Supermercado,Disco,lt
+Agua,BONAQUA,1.5,63.0,Supermercado,Hipermercado Carrefour,lt
+Agua,BONAQUA,1.5,56.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,BONAQUA,1.5,58.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,BONAQUA,1.5,55.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,BONAQUA,1.5,60.0,Supermercado,Hipermercado Carrefour,lt
+Agua,BONAQUA,1.5,59.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,BONAQUA,1.5,47.1,Hipermercado,Hipermercado Carrefour,lt
+Agua,BONAQUA,1.5,58.0,Supermercado,Disco,lt
+Agua,BONAQUA,1.5,55.0,Supermercado,Disco,lt
+Agua,BONAQUA,1.5,56.09,Supermercado,Disco,lt
+Agua,BONAQUA,1.5,55.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,BONAQUA,1.5,60.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,BONAQUA,1.5,54.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,BONAQUA,1.5,58.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,BONAQUA,1.5,47.1,Hipermercado,Hipermercado Carrefour,lt
+Agua,BONAQUA,1.5,60.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,BONAQUA,1.5,58.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,BONAQUA,1.5,56.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,BONAQUA,1.5,55.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,BONAQUA,1.5,58.0,Supermercado,Disco,lt
+Agua,BONAQUA,500.0,53.0,Supermercado,Hipermercado Carrefour,cc
+Agua,BONAQUA,500.0,46.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,BONAQUA,500.0,48.1,Hipermercado,Hipermercado Carrefour,cc
+Agua,BONAQUA,500.0,45.6,Hipermercado,Hipermercado Carrefour,cc
+Agua,BONAQUA,500.0,49.8,Hipermercado,Hipermercado Carrefour,cc
+Agua,BONAQUA,500.0,39.1,Hipermercado,Hipermercado Carrefour,cc
+Agua,BONAQUA,500.0,39.19,Supermercado,Supermercados DIA,cc
+Agua,BONAQUA,500.0,24.49,Supermercado,Supermercados DIA,cc
+Agua,BONAQUA,500.0,47.99,Autoservicio,Supermercados DIA,cc
+Agua,BONAQUA,500.0,48.75,Autoservicio,Supermercados DIA,cc
+Agua,BONAQUA,500.0,39.0,Supermercado,Supermercados DIA,cc
+Agua,BONAQUA,500.0,49.0,Supermercado,Disco,cc
+Agua,BONAQUA,500.0,40.0,Supermercado,Disco,cc
+Agua,BONAQUA,500.0,40.79,Supermercado,Disco,cc
+Agua,BONAQUA,500.0,45.6,Hipermercado,Hipermercado Carrefour,cc
+Agua,BONAQUA,500.0,46.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,BONAQUA,500.0,48.1,Hipermercado,Hipermercado Carrefour,cc
+Agua,BONAQUA,500.0,39.1,Hipermercado,Hipermercado Carrefour,cc
+Agua,BONAQUA,500.0,47.99,Supermercado,Supermercados DIA,cc
+Agua,BONAQUA,500.0,39.19,Supermercado,Supermercados DIA,cc
+Agua,BONAQUA,500.0,24.49,Supermercado,Supermercados DIA,cc
+Agua,BONAQUA,500.0,48.1,Hipermercado,Hipermercado Carrefour,cc
+Agua,BONAQUA,500.0,46.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,BONAQUA,500.0,45.6,Hipermercado,Hipermercado Carrefour,cc
+Agua,BONAQUA,500.0,47.99,Supermercado,Supermercados DIA,cc
+Agua,BONAQUA,500.0,24.49,Autoservicio,Supermercados DIA,cc
+Agua,BONAQUA,500.0,48.75,Autoservicio,Supermercados DIA,cc
+Agua,BONAQUA,500.0,39.0,Autoservicio,Supermercados DIA,cc
+Agua,BONAQUA,500.0,49.0,Supermercado,Disco,cc
+Agua,ECO DE LOS ANDES,500.0,45.9,Hipermercado,Hipermercado Carrefour,cc
+Agua,ECO DE LOS ANDES,500.0,55.0,Supermercado,Hipermercado Carrefour,cc
+Agua,ECO DE LOS ANDES,500.0,53.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,ECO DE LOS ANDES,500.0,50.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,ECO DE LOS ANDES,500.0,27.8,Hipermercado,Hipermercado Carrefour,cc
+Agua,ECO DE LOS ANDES,500.0,45.6,Hipermercado,Hipermercado Carrefour,cc
+Agua,ECO DE LOS ANDES,500.0,48.8,Supermercado,Hipermercado Carrefour,cc
+Agua,ECO DE LOS ANDES,500.0,51.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,ECO DE LOS ANDES,500.0,46.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,ECO DE LOS ANDES,500.0,49.6,Hipermercado,Hipermercado Carrefour,cc
+Agua,ECO DE LOS ANDES,500.0,48.1,Hipermercado,Hipermercado Carrefour,cc
+Agua,ECO DE LOS ANDES,500.0,52.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,ECO DE LOS ANDES,500.0,52.9,Supermercado,Disco,cc
+Agua,ECO DE LOS ANDES,500.0,50.0,Supermercado,Disco,cc
+Agua,ECO DE LOS ANDES,500.0,48.0,Supermercado,Disco,cc
+Agua,ECO DE LOS ANDES,500.0,45.0,Supermercado,Disco,cc
+Agua,ECO DE LOS ANDES,500.0,45.6,Hipermercado,Hipermercado Carrefour,cc
+Agua,ECO DE LOS ANDES,500.0,52.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,ECO DE LOS ANDES,500.0,48.8,Hipermercado,Hipermercado Carrefour,cc
+Agua,ECO DE LOS ANDES,500.0,53.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,ECO DE LOS ANDES,500.0,50.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,ECO DE LOS ANDES,500.0,48.8,Hipermercado,Hipermercado Carrefour,cc
+Agua,ECO DE LOS ANDES,500.0,53.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,ECO DE LOS ANDES,500.0,48.1,Hipermercado,Hipermercado Carrefour,cc
+Agua,ECO DE LOS ANDES,500.0,50.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,ECO DE LOS ANDES,500.0,45.9,Hipermercado,Hipermercado Carrefour,cc
+Agua,ECO DE LOS ANDES,500.0,45.6,Hipermercado,Hipermercado Carrefour,cc
+Agua,ECO DE LOS ANDES,500.0,52.9,Supermercado,Disco,cc
+Agua,KIN,6.0,125.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,KIN,6.0,121.49,Autoservicio,Supermercados DIA,lt
+Agua,KIN,6.0,123.39,Autoservicio,Supermercados DIA,lt
+Agua,KIN,6.0,93.0,Supermercado,Supermercados DIA,lt
+Agua,KIN,6.0,125.0,Supermercado,Disco,lt
+Agua,KIN,6.0,125.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,KIN,6.0,121.49,Supermercado,Supermercados DIA,lt
+Agua,KIN,6.0,125.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,KIN,6.0,121.49,Supermercado,Supermercados DIA,lt
+Agua,KIN,6.0,123.39,Autoservicio,Supermercados DIA,lt
+Agua,KIN,6.0,93.0,Autoservicio,Supermercados DIA,lt
+Agua,KIN,6.0,125.0,Supermercado,Disco,lt
+Agua,NESTLÉ,6.3,152.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,NESTLÉ,6.3,150.0,Supermercado,Hipermercado Carrefour,lt
+Agua,NESTLÉ,6.3,157.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,NESTLÉ,6.3,151.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,NESTLÉ,6.3,155.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,NESTLÉ,6.3,158.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,NESTLÉ,6.3,145.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,NESTLÉ,6.3,154.85,Supermercado,Supermercados DIA,lt
+Agua,NESTLÉ,6.3,156.79,Autoservicio,Supermercados DIA,lt
+Agua,NESTLÉ,6.3,159.19,Autoservicio,Supermercados DIA,lt
+Agua,NESTLÉ,6.3,148.95,Supermercado,Supermercados DIA,lt
+Agua,NESTLÉ,6.3,169.0,Supermercado,Disco,lt
+Agua,NESTLÉ,6.3,158.0,Supermercado,Disco,lt
+Agua,NESTLÉ,6.3,145.0,Supermercado,Disco,lt
+Agua,NESTLÉ,6.3,145.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,NESTLÉ,6.3,157.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,NESTLÉ,6.3,158.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,NESTLÉ,6.3,156.79,Supermercado,Supermercados DIA,lt
+Agua,NESTLÉ,6.3,154.85,Supermercado,Supermercados DIA,lt
+Agua,NESTLÉ,6.3,157.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,NESTLÉ,6.3,158.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,NESTLÉ,6.3,152.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,NESTLÉ,6.3,145.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,NESTLÉ,6.3,156.79,Autoservicio,Supermercados DIA,lt
+Agua,NESTLÉ,6.3,159.19,Autoservicio,Supermercados DIA,lt
+Agua,NESTLÉ,6.3,148.95,Autoservicio,Supermercados DIA,lt
+Agua,NESTLÉ,6.3,169.0,Supermercado,Disco,lt
+Agua,VILLA DEL SUR,6.25,175.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,6.25,222.0,Supermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,6.25,182.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,6.25,178.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,6.25,156.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,6.25,180.0,Supermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,6.25,174.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,6.25,211.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,6.25,179.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,6.25,189.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,6.25,137.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,6.25,168.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,6.25,165.0,Supermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,6.25,170.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,6.25,173.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,6.25,143.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,6.25,106.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,6.25,195.99,Autoservicio,Supermercados DIA,lt
+Agua,VILLA DEL SUR,6.25,198.99,Autoservicio,Supermercados DIA,lt
+Agua,VILLA DEL SUR,6.25,175.0,Supermercado,Supermercados DIA,lt
+Agua,VILLA DEL SUR,6.25,197.99,Autoservicio,Supermercados DIA,lt
+Agua,VILLA DEL SUR,6.25,199.0,Supermercado,Disco,lt
+Agua,VILLA DEL SUR,6.25,187.0,Supermercado,Disco,lt
+Agua,VILLA DEL SUR,6.25,196.0,Supermercado,Disco,lt
+Agua,VILLA DEL SUR,6.25,155.0,Supermercado,Disco,lt
+Agua,VILLA DEL SUR,6.25,108.0,Supermercado,Disco,lt
+Agua,VILLA DEL SUR,6.25,180.0,Supermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,6.25,165.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,6.25,189.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,6.25,179.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,6.25,199.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,6.25,106.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,6.25,197.99,Supermercado,Supermercados DIA,lt
+Agua,VILLA DEL SUR,6.25,195.99,Autoservicio,Supermercados DIA,lt
+Agua,VILLA DEL SUR,6.25,155.0,Supermercado,Disco,lt
+Agua,VILLA DEL SUR,6.25,199.0,Supermercado,Disco,lt
+Agua,VILLA DEL SUR,6.25,165.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,6.25,179.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,6.25,211.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,6.25,199.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,6.25,175.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,6.25,197.99,Supermercado,Supermercados DIA,lt
+Agua,VILLA DEL SUR,6.25,198.99,Autoservicio,Supermercados DIA,lt
+Agua,VILLA DEL SUR,6.25,175.0,Autoservicio,Supermercados DIA,lt
+Agua,VILLA DEL SUR,6.25,187.0,Supermercado,Disco,lt
+Agua,KIN,500.0,40.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,KIN,500.0,36.6,Hipermercado,Hipermercado Carrefour,cc
+Agua,KIN,500.0,41.5,Hipermercado,Hipermercado Carrefour,cc
+Agua,KIN,500.0,34.7,Hipermercado,Hipermercado Carrefour,cc
+Agua,KIN,500.0,14.69,Supermercado,Supermercados DIA,cc
+Agua,KIN,500.0,39.19,Autoservicio,Supermercados DIA,cc
+Agua,KIN,500.0,39.79,Autoservicio,Supermercados DIA,cc
+Agua,KIN,500.0,31.35,Supermercado,Supermercados DIA,cc
+Agua,KIN,500.0,40.0,Supermercado,Disco,cc
+Agua,KIN,500.0,36.5,Supermercado,Disco,cc
+Agua,KIN,500.0,35.69,Supermercado,Disco,cc
+Agua,KIN,500.0,40.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,KIN,500.0,39.19,Supermercado,Supermercados DIA,cc
+Agua,KIN,500.0,36.5,Supermercado,Disco,cc
+Agua,KIN,500.0,40.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,KIN,500.0,39.19,Supermercado,Supermercados DIA,cc
+Agua,KIN,500.0,14.69,Supermercado,Supermercados DIA,cc
+Agua,KIN,500.0,9.59,Autoservicio,Supermercados DIA,cc
+Agua,KIN,500.0,39.79,Autoservicio,Supermercados DIA,cc
+Agua,KIN,500.0,31.35,Autoservicio,Supermercados DIA,cc
+Agua,KIN,500.0,40.0,Supermercado,Disco,cc
+Agua,VILLA DEL SUR,2.25,87.0,Supermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,2.25,88.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,2.25,80.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,2.25,71.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,2.25,65.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,2.25,67.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,2.25,96.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,2.25,84.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,2.25,60.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,2.25,75.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,2.25,46.2,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,2.25,74.25,Autoservicio,Supermercados DIA,lt
+Agua,VILLA DEL SUR,2.25,75.0,Supermercado,Disco,lt
+Agua,VILLA DEL SUR,2.25,65.0,Supermercado,Disco,lt
+Agua,VILLA DEL SUR,2.25,65.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,2.25,68.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,2.25,75.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,2.25,67.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,2.25,71.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,2.25,46.2,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,2.25,74.25,Supermercado,Supermercados DIA,lt
+Agua,VILLA DEL SUR,2.25,73.49,Supermercado,Supermercados DIA,lt
+Agua,VILLA DEL SUR,2.25,75.0,Supermercado,Disco,lt
+Agua,VILLA DEL SUR,2.25,87.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,2.25,80.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,2.25,71.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,2.25,65.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLA DEL SUR,2.25,74.25,Supermercado,Supermercados DIA,lt
+Agua,VILLA DEL SUR,2.25,74.65,Autoservicio,Supermercados DIA,lt
+Agua,VILLA DEL SUR,2.25,73.49,Autoservicio,Supermercados DIA,lt
+Agua,VILLA DEL SUR,2.25,75.0,Supermercado,Disco,lt
+Agua,VILLAVICENCIO,1.5,66.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,85.0,Supermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,71.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,68.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,65.0,Supermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,75.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,70.67,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,57.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,77.5,Supermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,87.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,74.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,42.3,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,68.99,Autoservicio,Supermercados DIA,lt
+Agua,VILLAVICENCIO,1.5,63.0,Supermercado,Supermercados DIA,lt
+Agua,VILLAVICENCIO,1.5,75.0,Supermercado,Disco,lt
+Agua,VILLAVICENCIO,1.5,65.0,Supermercado,Disco,lt
+Agua,VILLAVICENCIO,1.5,62.0,Supermercado,Disco,lt
+Agua,VILLAVICENCIO,1.5,72.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,76.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,65.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,70.67,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,75.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,42.3,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,74.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,68.99,Supermercado,Supermercados DIA,lt
+Agua,VILLAVICENCIO,1.5,65.0,Supermercado,Disco,lt
+Agua,VILLAVICENCIO,1.5,63.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,70.67,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,74.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,75.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,66.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,1.5,68.99,Supermercado,Supermercados DIA,lt
+Agua,VILLAVICENCIO,1.5,63.0,Autoservicio,Supermercados DIA,lt
+Agua,VILLAVICENCIO,1.5,69.0,Supermercado,Disco,lt
+Agua,VILLAVICENCIO,1.5,75.0,Supermercado,Disco,lt
+Agua,VILLAVICENCIO,2.0,75.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,2.0,96.0,Supermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,2.0,81.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,2.0,77.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,2.0,73.0,Supermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,2.0,87.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,2.0,84.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,2.0,79.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,2.0,83.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,2.0,65.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,2.0,71.0,Supermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,2.0,74.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,2.0,85.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,2.0,48.1,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,2.0,86.15,Autoservicio,Supermercados DIA,lt
+Agua,VILLAVICENCIO,2.0,75.0,Supermercado,Supermercados DIA,lt
+Agua,VILLAVICENCIO,2.0,87.0,Supermercado,Disco,lt
+Agua,VILLAVICENCIO,2.0,81.0,Supermercado,Disco,lt
+Agua,VILLAVICENCIO,2.0,86.0,Supermercado,Disco,lt
+Agua,VILLAVICENCIO,2.0,85.0,Supermercado,Disco,lt
+Agua,VILLAVICENCIO,2.0,73.0,Supermercado,Disco,lt
+Agua,VILLAVICENCIO,2.0,82.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,2.0,86.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,2.0,73.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,2.0,79.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,2.0,85.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,2.0,48.1,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,2.0,84.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,2.0,86.15,Supermercado,Supermercados DIA,lt
+Agua,VILLAVICENCIO,2.0,85.0,Supermercado,Disco,lt
+Agua,VILLAVICENCIO,2.0,71.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,2.0,79.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,2.0,85.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,2.0,75.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,VILLAVICENCIO,2.0,86.15,Supermercado,Supermercados DIA,lt
+Agua,VILLAVICENCIO,2.0,75.0,Autoservicio,Supermercados DIA,lt
+Agua,VILLAVICENCIO,2.0,81.0,Supermercado,Disco,lt
+Agua,VILLAVICENCIO,500.0,57.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,VILLAVICENCIO,500.0,71.0,Supermercado,Hipermercado Carrefour,cc
+Agua,VILLAVICENCIO,500.0,55.0,Supermercado,Hipermercado Carrefour,cc
+Agua,VILLAVICENCIO,500.0,64.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,VILLAVICENCIO,500.0,58.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,VILLAVICENCIO,500.0,63.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,VILLAVICENCIO,500.0,48.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,VILLAVICENCIO,500.0,54.0,Supermercado,Hipermercado Carrefour,cc
+Agua,VILLAVICENCIO,500.0,75.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,VILLAVICENCIO,500.0,56.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,VILLAVICENCIO,500.0,61.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,VILLAVICENCIO,500.0,36.4,Hipermercado,Hipermercado Carrefour,cc
+Agua,VILLAVICENCIO,500.0,57.0,Supermercado,Disco,cc
+Agua,VILLAVICENCIO,500.0,45.0,Supermercado,Disco,cc
+Agua,VILLAVICENCIO,500.0,42.5,Supermercado,Disco,cc
+Agua,VILLAVICENCIO,500.0,61.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,VILLAVICENCIO,500.0,62.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,VILLAVICENCIO,500.0,55.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,VILLAVICENCIO,500.0,58.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,VILLAVICENCIO,500.0,64.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,VILLAVICENCIO,500.0,36.4,Hipermercado,Hipermercado Carrefour,cc
+Agua,VILLAVICENCIO,500.0,63.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,VILLAVICENCIO,500.0,45.0,Supermercado,Disco,cc
+Agua,VILLAVICENCIO,500.0,61.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,VILLAVICENCIO,500.0,54.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,VILLAVICENCIO,500.0,58.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,VILLAVICENCIO,500.0,55.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,VILLAVICENCIO,500.0,64.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,VILLAVICENCIO,500.0,57.0,Hipermercado,Hipermercado Carrefour,cc
+Agua,VILLAVICENCIO,500.0,57.0,Supermercado,Disco,cc
+Agua,GLACIAR,1.5,39.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,GLACIAR,1.5,57.79,Supermercado,Supermercados DIA,lt
+Agua,GLACIAR,1.5,63.69,Autoservicio,Supermercados DIA,lt
+Agua,GLACIAR,1.5,64.69,Autoservicio,Supermercados DIA,lt
+Agua,GLACIAR,1.5,48.99,Supermercado,Supermercados DIA,lt
+Agua,GLACIAR,1.5,65.0,Supermercado,Disco,lt
+Agua,GLACIAR,1.5,60.0,Supermercado,Disco,lt
+Agua,GLACIAR,1.5,63.0,Supermercado,Disco,lt
+Agua,GLACIAR,1.5,58.0,Supermercado,Disco,lt
+Agua,GLACIAR,1.5,69.0,Supermercado,Disco,lt
+Agua,GLACIAR,1.5,39.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,GLACIAR,1.5,63.69,Supermercado,Supermercados DIA,lt
+Agua,GLACIAR,1.5,57.79,Supermercado,Supermercados DIA,lt
+Agua,GLACIAR,1.5,60.0,Supermercado,Disco,lt
+Agua,GLACIAR,1.5,63.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,GLACIAR,1.5,59.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,GLACIAR,1.5,64.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,GLACIAR,1.5,57.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,GLACIAR,1.5,54.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,GLACIAR,1.5,66.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,GLACIAR,1.5,69.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,GLACIAR,1.5,58.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,GLACIAR,1.5,62.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,GLACIAR,1.5,63.69,Autoservicio,Supermercados DIA,lt
+Agua,GLACIAR,1.5,64.69,Autoservicio,Supermercados DIA,lt
+Agua,GLACIAR,1.5,48.99,Autoservicio,Supermercados DIA,lt
+Agua,GLACIAR,1.5,65.0,Supermercado,Disco,lt
+Agua,GLACIAR,2.0,74.0,Supermercado,Hipermercado Carrefour,lt
+Agua,GLACIAR,2.0,67.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,GLACIAR,2.0,70.0,Supermercado,Hipermercado Carrefour,lt
+Agua,GLACIAR,2.0,73.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,GLACIAR,2.0,66.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,GLACIAR,2.0,60.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,GLACIAR,2.0,58.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,GLACIAR,2.0,62.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,GLACIAR,2.0,63.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,GLACIAR,2.0,75.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,GLACIAR,2.0,64.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,GLACIAR,2.0,65.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,GLACIAR,2.0,73.49,Autoservicio,Supermercados DIA,lt
+Agua,GLACIAR,2.0,74.65,Autoservicio,Supermercados DIA,lt
+Agua,GLACIAR,2.0,63.69,Supermercado,Supermercados DIA,lt
+Agua,GLACIAR,2.0,74.0,Supermercado,Disco,lt
+Agua,GLACIAR,2.0,69.0,Supermercado,Disco,lt
+Agua,GLACIAR,2.0,73.0,Supermercado,Disco,lt
+Agua,GLACIAR,2.0,70.0,Supermercado,Disco,lt
+Agua,GLACIAR,2.0,65.0,Supermercado,Disco,lt
+Agua,GLACIAR,2.0,75.0,Supermercado,Disco,lt
+Agua,GLACIAR,2.0,64.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,GLACIAR,2.0,72.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,GLACIAR,2.0,66.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,GLACIAR,2.0,75.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,GLACIAR,2.0,70.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,GLACIAR,2.0,73.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,GLACIAR,2.0,65.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,GLACIAR,2.0,73.49,Supermercado,Supermercados DIA,lt
+Agua,GLACIAR,2.0,70.0,Supermercado,Disco,lt
+Agua,GLACIAR,2.0,64.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,GLACIAR,2.0,62.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,GLACIAR,2.0,66.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,GLACIAR,2.0,75.0,Hipermercado,Hipermercado Carrefour,lt
+Agua,GLACIAR,2.0,73.49,Supermercado,Supermercados DIA,lt
+Agua,GLACIAR,2.0,74.65,Autoservicio,Supermercados DIA,lt
+Agua,GLACIAR,2.0,63.69,Autoservicio,Supermercados DIA,lt
+Agua,GLACIAR,2.0,69.0,Supermercado,Disco,lt
+Arroz,GALLO,200.0,120.0,Hipermercado,Hipermercado Carrefour,gr
+Arroz,GALLO,1.0,135.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,174.0,Supermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,152.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,134.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,179.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,180.0,Supermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,182.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,146.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,157.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,175.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,175.0,Autoservicio,Supermercados DIA,kg
+Arroz,GALLO,1.0,175.0,Supermercado,Disco,kg
+Arroz,GALLO,1.0,167.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,146.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,175.0,Supermercado,Supermercados DIA,kg
+Arroz,GALLO,1.0,175.0,Supermercado,Disco,kg
+Arroz,GALLO,1.0,135.0,Supermercado,Disco,kg
+Arroz,GALLO,1.0,191.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,179.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,196.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,146.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,135.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,175.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,175.0,Supermercado,Supermercados DIA,kg
+Arroz,GALLO,1.0,175.0,Supermercado,Disco,kg
+Arroz,GALLO,1.0,97.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,99.0,Supermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,108.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,103.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,94.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,87.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,69.5,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,78.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,90.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,75.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,98.49,Autoservicio,Supermercados DIA,kg
+Arroz,GALLO,1.0,96.0,Supermercado,Disco,kg
+Arroz,GALLO,1.0,98.0,Supermercado,Disco,kg
+Arroz,GALLO,1.0,89.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,108.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,90.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,87.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,98.49,Supermercado,Supermercados DIA,kg
+Arroz,GALLO,1.0,96.0,Supermercado,Disco,kg
+Arroz,GALLO,1.0,110.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,96.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,87.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,77.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,90.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,98.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,GALLO,1.0,98.49,Supermercado,Supermercados DIA,kg
+Arroz,GALLO,1.0,96.0,Supermercado,Disco,kg
+Arroz,MOLINOS ALA,1.0,64.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,MOLINOS ALA,1.0,64.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,MOLINOS ALA,1.0,64.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,LUCCHETTI,1.0,61.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,LUCCHETTI,1.0,60.33,Hipermercado,Hipermercado Carrefour,kg
+Arroz,LUCCHETTI,1.0,62.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,LUCCHETTI,1.0,74.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,LUCCHETTI,1.0,60.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,LUCCHETTI,1.0,55.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,LUCCHETTI,1.0,59.99,Autoservicio,Supermercados DIA,kg
+Arroz,LUCCHETTI,1.0,61.0,Supermercado,Disco,kg
+Arroz,LUCCHETTI,1.0,62.0,Supermercado,Disco,kg
+Arroz,LUCCHETTI,1.0,62.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,LUCCHETTI,1.0,60.33,Hipermercado,Hipermercado Carrefour,kg
+Arroz,LUCCHETTI,1.0,59.99,Supermercado,Supermercados DIA,kg
+Arroz,LUCCHETTI,1.0,61.0,Supermercado,Disco,kg
+Arroz,LUCCHETTI,1.0,63.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,LUCCHETTI,1.0,61.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,LUCCHETTI,1.0,60.33,Hipermercado,Hipermercado Carrefour,kg
+Arroz,LUCCHETTI,1.0,68.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,LUCCHETTI,1.0,59.99,Supermercado,Supermercados DIA,kg
+Arroz,LUCCHETTI,1.0,61.0,Supermercado,Disco,kg
+Arroz,LUCCHETTI,1.0,74.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,LUCCHETTI,1.0,76.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,LUCCHETTI,1.0,72.5,Hipermercado,Hipermercado Carrefour,kg
+Arroz,LUCCHETTI,1.0,83.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,LUCCHETTI,1.0,77.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,LUCCHETTI,1.0,73.89,Autoservicio,Supermercados DIA,kg
+Arroz,LUCCHETTI,1.0,74.0,Supermercado,Disco,kg
+Arroz,LUCCHETTI,1.0,77.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,LUCCHETTI,1.0,74.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,LUCCHETTI,1.0,72.5,Hipermercado,Hipermercado Carrefour,kg
+Arroz,LUCCHETTI,1.0,73.89,Supermercado,Supermercados DIA,kg
+Arroz,LUCCHETTI,1.0,74.0,Supermercado,Disco,kg
+Arroz,LUCCHETTI,1.0,74.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,LUCCHETTI,1.0,81.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,LUCCHETTI,1.0,76.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,LUCCHETTI,1.0,77.0,Hipermercado,Hipermercado Carrefour,kg
+Arroz,LUCCHETTI,1.0,72.5,Hipermercado,Hipermercado Carrefour,kg
+Arroz,LUCCHETTI,500.0,42.9,Hipermercado,Hipermercado Carrefour,gr
+Arroz,LUCCHETTI,500.0,42.0,Hipermercado,Hipermercado Carrefour,gr
+Arroz,LUCCHETTI,500.0,41.6,Hipermercado,Hipermercado Carrefour,gr
+Arroz,LUCCHETTI,500.0,43.7,Hipermercado,Hipermercado Carrefour,gr
+Arroz,LUCCHETTI,500.0,41.2,Hipermercado,Hipermercado Carrefour,gr
+Arroz,LUCCHETTI,500.0,43.3,Hipermercado,Hipermercado Carrefour,gr
+Arroz,LUCCHETTI,500.0,41.49,Autoservicio,Supermercados DIA,gr
+Arroz,LUCCHETTI,500.0,41.0,Supermercado,Supermercados DIA,gr
+Arroz,LUCCHETTI,500.0,41.49,Supermercado,Supermercados DIA,gr
+Arroz,LUCCHETTI,500.0,42.0,Hipermercado,Hipermercado Carrefour,gr
+Arroz,LUCCHETTI,500.0,43.9,Hipermercado,Hipermercado Carrefour,gr
+Arroz,LUCCHETTI,500.0,41.6,Hipermercado,Hipermercado Carrefour,gr
+Arroz,LUCCHETTI,500.0,41.0,Hipermercado,Hipermercado Carrefour,gr
+Arroz,LUCCHETTI,500.0,41.49,Supermercado,Supermercados DIA,gr
+Arroz,LUCCHETTI,500.0,41.0,Autoservicio,Supermercados DIA,gr
+Harinas,MAIZENA,215.0,62.0,Supermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,215.0,58.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,215.0,53.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,215.0,56.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,215.0,55.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,215.0,60.0,Supermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,215.0,66.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,215.0,54.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,215.0,58.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,215.0,55.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,215.0,59.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,215.0,54.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,215.0,62.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,215.0,60.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,215.0,53.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,215.0,63.0,Supermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,215.0,54.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,215.0,58.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,520.0,139.0,Supermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,520.0,130.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,520.0,128.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,520.0,118.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,520.0,134.0,Supermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,520.0,119.99,Autoservicio,Supermercados DIA,gr
+Harinas,MAIZENA,520.0,119.0,Supermercado,Disco,gr
+Harinas,MAIZENA,520.0,159.0,Supermercado,Disco,gr
+Harinas,MAIZENA,520.0,128.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,520.0,124.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,520.0,122.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,520.0,140.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,520.0,123.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,520.0,139.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,520.0,143.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,520.0,134.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,520.0,118.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,520.0,119.99,Supermercado,Supermercados DIA,gr
+Harinas,MAIZENA,520.0,119.0,Supermercado,Disco,gr
+Harinas,MAIZENA,520.0,136.0,Supermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,520.0,134.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,520.0,139.0,Supermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,520.0,128.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,MAIZENA,520.0,119.99,Supermercado,Supermercados DIA,gr
+Harinas,MAIZENA,520.0,119.0,Supermercado,Disco,gr
+Harinas,PUREZA,1.0,81.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,80.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,89.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,78.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,85.59,Autoservicio,Supermercados DIA,kg
+Harinas,PUREZA,1.0,82.0,Supermercado,Disco,kg
+Harinas,PUREZA,1.0,79.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,81.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,78.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,85.59,Supermercado,Supermercados DIA,kg
+Harinas,PUREZA,1.0,82.0,Supermercado,Disco,kg
+Harinas,PUREZA,1.0,76.0,Supermercado,Disco,kg
+Harinas,PUREZA,1.0,85.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,85.59,Supermercado,Supermercados DIA,kg
+Harinas,PUREZA,1.0,82.0,Supermercado,Disco,kg
+Harinas,PUREZA,1.0,84.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,88.0,Supermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,84.5,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,82.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,81.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,85.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,80.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,77.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,87.0,Supermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,89.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,86.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,79.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,78.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,85.49,Autoservicio,Supermercados DIA,kg
+Harinas,PUREZA,1.0,82.0,Supermercado,Disco,kg
+Harinas,PUREZA,1.0,76.0,Supermercado,Disco,kg
+Harinas,PUREZA,1.0,81.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,86.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,79.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,85.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,78.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,85.49,Supermercado,Supermercados DIA,kg
+Harinas,PUREZA,1.0,82.0,Supermercado,Disco,kg
+Harinas,PUREZA,1.0,87.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,81.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,85.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,84.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,85.49,Supermercado,Supermercados DIA,kg
+Harinas,PUREZA,1.0,82.0,Supermercado,Disco,kg
+Harinas,CAÑUELAS,1.0,38.0,Supermercado,Hipermercado Carrefour,kg
+Harinas,CAÑUELAS,1.0,34.1,Hipermercado,Hipermercado Carrefour,kg
+Harinas,CAÑUELAS,1.0,37.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,CAÑUELAS,1.0,35.4,Hipermercado,Hipermercado Carrefour,kg
+Harinas,CAÑUELAS,1.0,36.6,Hipermercado,Hipermercado Carrefour,kg
+Harinas,CAÑUELAS,1.0,34.7,Hipermercado,Hipermercado Carrefour,kg
+Harinas,CAÑUELAS,1.0,31.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,CAÑUELAS,1.0,36.4,Hipermercado,Hipermercado Carrefour,kg
+Harinas,CAÑUELAS,1.0,31.5,Hipermercado,Hipermercado Carrefour,kg
+Harinas,CAÑUELAS,1.0,39.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,CAÑUELAS,1.0,36.59,Autoservicio,Supermercados DIA,kg
+Harinas,CAÑUELAS,1.0,34.0,Supermercado,Disco,kg
+Harinas,CAÑUELAS,1.0,34.2,Hipermercado,Hipermercado Carrefour,kg
+Harinas,CAÑUELAS,1.0,32.1,Hipermercado,Hipermercado Carrefour,kg
+Harinas,CAÑUELAS,1.0,34.7,Hipermercado,Hipermercado Carrefour,kg
+Harinas,CAÑUELAS,1.0,33.6,Hipermercado,Hipermercado Carrefour,kg
+Harinas,CAÑUELAS,1.0,36.9,Hipermercado,Hipermercado Carrefour,kg
+Harinas,CAÑUELAS,1.0,36.59,Supermercado,Supermercados DIA,kg
+Harinas,CAÑUELAS,1.0,34.0,Supermercado,Disco,kg
+Harinas,CAÑUELAS,1.0,37.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,CAÑUELAS,1.0,36.59,Supermercado,Supermercados DIA,kg
+Harinas,CAÑUELAS,1.0,34.0,Supermercado,Disco,kg
+Harinas,FAVORITA,1.0,38.8,Supermercado,Hipermercado Carrefour,kg
+Harinas,FAVORITA,1.0,41.3,Hipermercado,Hipermercado Carrefour,kg
+Harinas,FAVORITA,1.0,40.2,Hipermercado,Hipermercado Carrefour,kg
+Harinas,FAVORITA,1.0,40.7,Hipermercado,Hipermercado Carrefour,kg
+Harinas,FAVORITA,1.0,33.6,Hipermercado,Hipermercado Carrefour,kg
+Harinas,FAVORITA,1.0,42.5,Hipermercado,Hipermercado Carrefour,kg
+Harinas,FAVORITA,1.0,34.1,Hipermercado,Hipermercado Carrefour,kg
+Harinas,FAVORITA,1.0,40.69,Autoservicio,Supermercados DIA,kg
+Harinas,FAVORITA,1.0,41.0,Supermercado,Disco,kg
+Harinas,FAVORITA,1.0,40.7,Hipermercado,Hipermercado Carrefour,kg
+Harinas,FAVORITA,1.0,44.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,FAVORITA,1.0,39.8,Hipermercado,Hipermercado Carrefour,kg
+Harinas,FAVORITA,1.0,41.3,Hipermercado,Hipermercado Carrefour,kg
+Harinas,FAVORITA,1.0,34.1,Hipermercado,Hipermercado Carrefour,kg
+Harinas,FAVORITA,1.0,40.69,Supermercado,Supermercados DIA,kg
+Harinas,FAVORITA,1.0,41.0,Supermercado,Disco,kg
+Harinas,FAVORITA,1.0,40.7,Hipermercado,Hipermercado Carrefour,kg
+Harinas,FAVORITA,1.0,41.3,Hipermercado,Hipermercado Carrefour,kg
+Harinas,FAVORITA,1.0,40.69,Supermercado,Supermercados DIA,kg
+Harinas,PUREZA,1.0,63.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,55.0,Supermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,61.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,59.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,45.8,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,52.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,64.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,60.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,43.5,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,60.29,Autoservicio,Supermercados DIA,kg
+Harinas,PUREZA,1.0,56.0,Supermercado,Disco,kg
+Harinas,PUREZA,1.0,71.0,Supermercado,Disco,kg
+Harinas,PUREZA,1.0,61.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,59.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,54.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,60.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,64.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,43.5,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,60.29,Supermercado,Supermercados DIA,kg
+Harinas,PUREZA,1.0,56.0,Supermercado,Disco,kg
+Harinas,PUREZA,1.0,61.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,60.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,60.29,Supermercado,Supermercados DIA,kg
+Harinas,PUREZA,1.0,56.0,Supermercado,Disco,kg
+Harinas,PUREZA,1.0,67.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,66.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,68.0,Supermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,65.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,64.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,56.5,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,45.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,69.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,47.9,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,64.99,Autoservicio,Supermercados DIA,kg
+Harinas,PUREZA,1.0,61.0,Supermercado,Disco,kg
+Harinas,PUREZA,1.0,71.0,Supermercado,Disco,kg
+Harinas,PUREZA,1.0,65.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,63.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,64.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,68.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,69.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,64.99,Supermercado,Supermercados DIA,kg
+Harinas,PUREZA,1.0,61.0,Supermercado,Disco,kg
+Harinas,PUREZA,1.0,64.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,65.0,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,47.9,Hipermercado,Hipermercado Carrefour,kg
+Harinas,PUREZA,1.0,64.99,Supermercado,Supermercados DIA,kg
+Harinas,PUREZA,1.0,61.0,Supermercado,Disco,kg
+Harinas,QUAKER,500.0,29.69,Hipermercado,Hipermercado Carrefour,gr
+Harinas,ARCOR,750.0,86.67,Hipermercado,Hipermercado Carrefour,gr
+Harinas,ARCOR,750.0,87.0,Supermercado,Hipermercado Carrefour,gr
+Harinas,ARCOR,750.0,81.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,ARCOR,750.0,85.46,Hipermercado,Hipermercado Carrefour,gr
+Harinas,ARCOR,750.0,87.48,Hipermercado,Hipermercado Carrefour,gr
+Harinas,ARCOR,750.0,85.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,ARCOR,750.0,81.0,Supermercado,Disco,gr
+Harinas,ARCOR,750.0,83.84,Supermercado,Disco,gr
+Harinas,ARCOR,750.0,85.46,Supermercado,Disco,gr
+Harinas,ARCOR,750.0,83.84,Hipermercado,Hipermercado Carrefour,gr
+Harinas,ARCOR,750.0,81.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,ARCOR,750.0,85.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,ARCOR,750.0,83.84,Supermercado,Disco,gr
+Harinas,ARCOR,750.0,81.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,ARCOR,750.0,85.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,ARCOR,750.0,86.67,Hipermercado,Hipermercado Carrefour,gr
+Harinas,ARCOR,750.0,81.0,Supermercado,Disco,gr
+Harinas,ARCOR,500.0,65.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,ARCOR,500.0,55.5,Supermercado,Hipermercado Carrefour,gr
+Harinas,ARCOR,500.0,73.0,Supermercado,Hipermercado Carrefour,gr
+Harinas,ARCOR,500.0,80.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,ARCOR,500.0,64.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,ARCOR,500.0,83.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,ARCOR,500.0,75.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,ARCOR,500.0,76.25,Supermercado,Hipermercado Carrefour,gr
+Harinas,ARCOR,500.0,72.5,Hipermercado,Hipermercado Carrefour,gr
+Harinas,ARCOR,500.0,70.5,Hipermercado,Hipermercado Carrefour,gr
+Harinas,ARCOR,500.0,81.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,ARCOR,500.0,60.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,ARCOR,500.0,78.09,Autoservicio,Supermercados DIA,gr
+Harinas,ARCOR,500.0,77.0,Supermercado,Supermercados DIA,gr
+Harinas,ARCOR,500.0,64.67,Hipermercado,Hipermercado Carrefour,gr
+Harinas,ARCOR,500.0,75.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,ARCOR,500.0,64.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,ARCOR,500.0,60.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,ARCOR,500.0,78.09,Supermercado,Supermercados DIA,gr
+Harinas,ARCOR,500.0,76.25,Hipermercado,Hipermercado Carrefour,gr
+Harinas,ARCOR,500.0,60.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,ARCOR,500.0,65.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,ARCOR,500.0,73.0,Hipermercado,Hipermercado Carrefour,gr
+Harinas,ARCOR,500.0,78.09,Supermercado,Supermercados DIA,gr
+Harinas,ARCOR,500.0,77.0,Autoservicio,Supermercados DIA,gr
+Leche,LA SERENÍSIMA,1.0,49.9,Hipermercado,Hipermercado Carrefour,lt
+Leche,LA SERENÍSIMA,1.0,57.0,Hipermercado,Hipermercado Carrefour,lt
+Leche,LA SERENÍSIMA,1.0,60.0,Hipermercado,Hipermercado Carrefour,lt
+Leche,LA SERENÍSIMA,1.0,51.9,Hipermercado,Hipermercado Carrefour,lt
+Leche,LA SERENÍSIMA,1.0,56.0,Hipermercado,Hipermercado Carrefour,lt
+Leche,LA SERENÍSIMA,1.0,50.77,Hipermercado,Hipermercado Carrefour,lt
+Leche,LA SERENÍSIMA,1.0,52.49,Autoservicio,Supermercados DIA,lt
+Leche,LA SERENÍSIMA,1.0,56.0,Supermercado,Disco,lt
+Leche,LA SERENÍSIMA,1.0,53.0,Supermercado,Disco,lt
+Leche,LA SERENÍSIMA,1.0,50.77,Hipermercado,Hipermercado Carrefour,lt
+Leche,LA SERENÍSIMA,1.0,57.0,Hipermercado,Hipermercado Carrefour,lt
+Leche,LA SERENÍSIMA,1.0,58.0,Hipermercado,Hipermercado Carrefour,lt
+Leche,LA SERENÍSIMA,1.0,51.9,Hipermercado,Hipermercado Carrefour,lt
+Leche,LA SERENÍSIMA,1.0,56.0,Hipermercado,Hipermercado Carrefour,lt
+Leche,LA SERENÍSIMA,1.0,52.49,Supermercado,Supermercados DIA,lt
+Leche,LA SERENÍSIMA,1.0,53.0,Supermercado,Disco,lt
+Leche,LA SERENÍSIMA,1.0,56.0,Supermercado,Disco,lt
+Leche,LA SERENÍSIMA,1.0,51.9,Hipermercado,Hipermercado Carrefour,lt
+Leche,LA SERENÍSIMA,1.0,50.77,Hipermercado,Hipermercado Carrefour,lt
+Leche,LA SERENÍSIMA,1.0,49.9,Hipermercado,Hipermercado Carrefour,lt
+Leche,LA SERENÍSIMA,1.0,50.0,Hipermercado,Hipermercado Carrefour,lt
+Leche,LA SERENÍSIMA,1.0,52.49,Supermercado,Supermercados DIA,lt
+Leche,LA SERENÍSIMA,1.0,53.0,Supermercado,Disco,lt
+Leche,ARMONÍA,1.0,40.25,Hipermercado,Hipermercado Carrefour,lt
+Leche,ARMONÍA,1.0,42.46,Hipermercado,Hipermercado Carrefour,lt
+Leche,ARMONÍA,1.0,42.46,Supermercado,Supermercados DIA,lt
+Leche,ARMONÍA,1.0,40.25,Autoservicio,Supermercados DIA,lt
+Leche,ARMONÍA,1.0,40.3,Supermercado,Supermercados DIA,lt
+Leche,ARMONÍA,1.0,41.66,Autoservicio,Supermercados DIA,lt
+Leche,ARMONÍA,1.0,40.25,Hipermercado,Hipermercado Carrefour,lt
+Leche,ARMONÍA,1.0,42.46,Hipermercado,Hipermercado Carrefour,lt
+Leche,ARMONÍA,1.0,40.25,Supermercado,Supermercados DIA,lt
+Leche,ARMONÍA,1.0,42.46,Supermercado,Supermercados DIA,lt
+Leche,ARMONÍA,1.0,40.25,Hipermercado,Hipermercado Carrefour,lt
+Leche,ARMONÍA,1.0,42.46,Hipermercado,Hipermercado Carrefour,lt
+Leche,ARMONÍA,1.0,40.3,Supermercado,Supermercados DIA,lt
+Leche,ARMONÍA,1.0,41.66,Autoservicio,Supermercados DIA,lt
+Leche,ARMONÍA,1.0,40.25,Autoservicio,Supermercados DIA,lt
+Leche,LA SERENÍSIMA,1.0,65.0,Supermercado,Disco,lt
+Leche,LA SERENÍSIMA,1.0,70.0,Supermercado,Disco,lt
+Leche,LA SERENÍSIMA,1.0,65.0,Supermercado,Disco,lt
+Leche,ARMONÍA,1.0,42.0,Hipermercado,Hipermercado Carrefour,lt
+Leche,ARMONÍA,1.0,41.66,Hipermercado,Hipermercado Carrefour,lt
+Leche,ARMONÍA,1.0,40.25,Hipermercado,Hipermercado Carrefour,lt
+Leche,ARMONÍA,1.0,42.46,Supermercado,Supermercados DIA,lt
+Leche,ARMONÍA,1.0,40.3,Supermercado,Supermercados DIA,lt
+Leche,ARMONÍA,1.0,40.25,Autoservicio,Supermercados DIA,lt
+Leche,ARMONÍA,1.0,40.0,Supermercado,Supermercados DIA,lt
+Leche,ARMONÍA,1.0,41.66,Autoservicio,Supermercados DIA,lt
+Leche,ARMONÍA,1.0,40.25,Hipermercado,Hipermercado Carrefour,lt
+Leche,ARMONÍA,1.0,40.25,Supermercado,Supermercados DIA,lt
+Leche,ARMONÍA,1.0,42.46,Supermercado,Supermercados DIA,lt
+Leche,ARMONÍA,1.0,40.25,Hipermercado,Hipermercado Carrefour,lt
+Leche,ARMONÍA,1.0,42.0,Hipermercado,Hipermercado Carrefour,lt
+Leche,ARMONÍA,1.0,40.3,Supermercado,Supermercados DIA,lt
+Leche,ARMONÍA,1.0,41.66,Autoservicio,Supermercados DIA,lt
+Leche,ARMONÍA,1.0,40.25,Autoservicio,Supermercados DIA,lt
+Leche,ARMONÍA,1.0,40.0,Autoservicio,Supermercados DIA,lt
+Leche,LA SERENÍSIMA,200.0,37.0,Supermercado,Hipermercado Carrefour,cc
+Leche,LA SERENÍSIMA,200.0,38.5,Supermercado,Hipermercado Carrefour,cc
+Leche,LA SERENÍSIMA,200.0,39.8,Hipermercado,Hipermercado Carrefour,cc
+Leche,LA SERENÍSIMA,200.0,37.3,Hipermercado,Hipermercado Carrefour,cc
+Leche,LA SERENÍSIMA,200.0,40.9,Hipermercado,Hipermercado Carrefour,cc
+Leche,LA SERENÍSIMA,200.0,39.9,Hipermercado,Hipermercado Carrefour,cc
+Leche,LA SERENÍSIMA,200.0,43.2,Supermercado,Hipermercado Carrefour,cc
+Leche,LA SERENÍSIMA,200.0,45.6,Hipermercado,Hipermercado Carrefour,cc
+Leche,LA SERENÍSIMA,200.0,44.8,Hipermercado,Hipermercado Carrefour,cc
+Leche,LA SERENÍSIMA,200.0,39.9,Hipermercado,Hipermercado Carrefour,cc
+Leche,LA SERENÍSIMA,200.0,43.2,Hipermercado,Hipermercado Carrefour,cc
+Leche,LA SERENÍSIMA,200.0,46.5,Hipermercado,Hipermercado Carrefour,cc
+Leche,LA SERENÍSIMA,200.0,37.3,Hipermercado,Hipermercado Carrefour,cc
+Leche,LA SERENÍSIMA,200.0,40.8,Hipermercado,Hipermercado Carrefour,cc
+Leche,LA SERENÍSIMA,200.0,39.8,Hipermercado,Hipermercado Carrefour,cc
+Leche,LA SERENÍSIMA,200.0,43.2,Hipermercado,Hipermercado Carrefour,cc
+Leche,LA SERENÍSIMA,200.0,37.3,Hipermercado,Hipermercado Carrefour,cc
+Leche,LA SERENÍSIMA,200.0,40.8,Hipermercado,Hipermercado Carrefour,cc
+Leche,LA SERENÍSIMA,200.0,39.9,Hipermercado,Hipermercado Carrefour,cc
+Pastas,GIACOMO,500.0,182.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,183.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,220.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,219.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,165.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,172.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,202.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,171.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,174.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,189.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,175.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,204.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,224.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,196.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,159.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,200.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,175.0,Supermercado,Disco,gr
+Pastas,GIACOMO,500.0,208.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,204.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,136.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,174.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,175.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,165.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,224.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,200.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,175.0,Supermercado,Disco,gr
+Pastas,GIACOMO,500.0,205.0,Supermercado,Disco,gr
+Pastas,GIACOMO,500.0,224.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,174.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,175.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,175.0,Supermercado,Disco,gr
+Pastas,GIACOMO,500.0,182.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,183.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,220.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,219.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,165.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,172.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,202.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,171.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,174.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,189.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,175.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,204.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,224.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,196.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,159.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,200.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,175.0,Supermercado,Disco,gr
+Pastas,GIACOMO,500.0,205.0,Supermercado,Disco,gr
+Pastas,GIACOMO,500.0,202.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,204.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,136.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,174.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,175.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,165.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,224.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,200.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,175.0,Supermercado,Disco,gr
+Pastas,GIACOMO,500.0,224.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,174.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,175.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,175.0,Supermercado,Disco,gr
+Pastas,GIACOMO,500.0,182.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,183.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,220.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,219.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,165.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,172.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,202.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,171.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,174.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,189.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,175.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,204.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,224.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,196.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,159.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,200.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,175.0,Supermercado,Disco,gr
+Pastas,GIACOMO,500.0,205.0,Supermercado,Disco,gr
+Pastas,GIACOMO,500.0,208.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,204.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,136.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,174.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,175.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,165.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,224.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,200.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,175.0,Supermercado,Disco,gr
+Pastas,GIACOMO,500.0,224.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,174.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,175.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,GIACOMO,500.0,175.0,Supermercado,Disco,gr
+Pastas,DON VICENTE,500.0,98.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,99.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,102.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,104.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,80.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,108.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,89.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,76.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,92.0,Supermercado,Disco,gr
+Pastas,DON VICENTE,500.0,89.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,108.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,95.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,80.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,93.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,99.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,76.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,104.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,92.0,Supermercado,Disco,gr
+Pastas,DON VICENTE,500.0,108.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,80.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,98.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,92.0,Supermercado,Disco,gr
+Pastas,DON VICENTE,500.0,98.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,102.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,99.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,104.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,80.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,92.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,108.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,89.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,76.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,92.0,Supermercado,Disco,gr
+Pastas,DON VICENTE,500.0,89.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,108.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,80.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,92.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,99.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,76.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,104.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,92.0,Supermercado,Disco,gr
+Pastas,DON VICENTE,500.0,108.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,80.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,92.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,98.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,92.0,Supermercado,Disco,gr
+Pastas,LUCCHETTI,500.0,60.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,52.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,50.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,44.3,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,51.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,57.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,55.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,50.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,42.9,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,52.99,Autoservicio,Supermercados DIA,gr
+Pastas,LUCCHETTI,500.0,52.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,53.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,51.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,55.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,50.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,42.9,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,52.99,Supermercado,Supermercados DIA,gr
+Pastas,LUCCHETTI,500.0,56.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,46.7,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,50.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,52.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,54.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,52.99,Supermercado,Supermercados DIA,gr
+Pastas,MATARAZZO,500.0,57.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,63.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,62.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,59.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,54.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,44.8,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,58.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,44.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,64.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,56.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,46.9,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,57.69,Autoservicio,Supermercados DIA,gr
+Pastas,MATARAZZO,500.0,57.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,500.0,57.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,63.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,56.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,54.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,46.9,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,57.69,Supermercado,Supermercados DIA,gr
+Pastas,MATARAZZO,500.0,57.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,500.0,64.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,56.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,55.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,57.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,57.69,Supermercado,Supermercados DIA,gr
+Pastas,MATARAZZO,500.0,70.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,57.5,Supermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,69.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,69.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,51.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,54.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,46.8,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,56.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,59.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,55.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,61.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,46.9,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,57.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,65.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,76.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,70.5,Supermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,54.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,46.9,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,69.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,63.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,78.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,57.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,57.0,Supermercado,Disco,gr
+Pastas,LUCCHETTI,500.0,76.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,85.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,78.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,79.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,75.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,72.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,71.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,80.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,70.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,74.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,66.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,79.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,74.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,68.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,75.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,74.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,77.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,75.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,73.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,76.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,67.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,90.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,84.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,82.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,80.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,54.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,78.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,93.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,60.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,88.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,74.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,82.99,Autoservicio,Supermercados DIA,gr
+Pastas,MATARAZZO,500.0,82.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,500.0,82.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,85.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,80.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,74.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,82.99,Supermercado,Supermercados DIA,gr
+Pastas,MATARAZZO,500.0,82.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,500.0,93.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,80.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,82.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,82.99,Supermercado,Supermercados DIA,gr
+Pastas,MATARAZZO,500.0,82.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,500.0,78.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,86.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,85.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,79.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,73.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,75.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,80.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,88.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,82.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,71.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,70.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,500.0,73.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,500.0,75.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,80.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,59.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,73.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,88.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,79.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,70.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,500.0,88.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,75.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,60.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,52.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,50.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,44.3,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,51.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,56.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,57.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,55.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,50.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,42.9,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,52.99,Autoservicio,Supermercados DIA,gr
+Pastas,LUCCHETTI,500.0,53.0,Supermercado,Disco,gr
+Pastas,LUCCHETTI,500.0,52.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,53.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,51.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,55.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,50.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,42.9,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,52.99,Supermercado,Supermercados DIA,gr
+Pastas,LUCCHETTI,500.0,53.0,Supermercado,Disco,gr
+Pastas,LUCCHETTI,500.0,56.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,46.7,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,50.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,52.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,52.99,Supermercado,Supermercados DIA,gr
+Pastas,LUCCHETTI,500.0,52.0,Supermercado,Disco,gr
+Pastas,LUCCHETTI,500.0,53.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,500.0,57.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,63.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,62.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,54.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,44.8,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,44.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,64.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,59.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,56.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,46.9,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,57.69,Autoservicio,Supermercados DIA,gr
+Pastas,MATARAZZO,500.0,57.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,500.0,57.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,63.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,59.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,56.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,54.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,46.9,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,57.69,Supermercado,Supermercados DIA,gr
+Pastas,MATARAZZO,500.0,57.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,500.0,64.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,56.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,55.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,58.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,57.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,57.69,Supermercado,Supermercados DIA,gr
+Pastas,MATARAZZO,500.0,57.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,500.0,81.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,93.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,83.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,86.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,52.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,82.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,53.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,82.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,500.0,86.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,81.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,74.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,82.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,500.0,58.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,82.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,81.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,82.0,Supermercado,Disco,gr
+Pastas,LUCCHETTI,500.0,85.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,82.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,71.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,75.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,76.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,77.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,84.5,Supermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,68.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,80.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,69.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,74.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,79.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,63.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,76.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,74.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,77.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,75.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,84.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,63.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,84.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,74.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,79.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,75.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,57.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,63.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,54.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,44.8,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,58.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,61.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,44.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,64.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,59.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,56.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,46.9,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,57.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,500.0,57.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,63.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,59.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,56.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,54.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,46.9,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,57.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,500.0,61.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,56.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,55.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,57.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,57.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,500.0,73.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,78.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,86.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,74.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,75.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,80.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,82.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,88.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,71.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,79.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,70.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,500.0,69.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,500.0,75.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,80.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,59.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,79.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,70.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,500.0,87.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,79.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,75.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,73.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,KNORR,500.0,51.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,KNORR,500.0,66.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,KNORR,500.0,54.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,KNORR,500.0,59.0,Supermercado,Disco,gr
+Pastas,KNORR,500.0,57.0,Supermercado,Disco,gr
+Pastas,KNORR,500.0,79.39,Supermercado,Supermercados DIA,gr
+Pastas,KNORR,500.0,59.0,Supermercado,Disco,gr
+Pastas,KNORR,500.0,53.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,KNORR,500.0,79.39,Supermercado,Supermercados DIA,gr
+Pastas,LUCCHETTI,500.0,52.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,60.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,54.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,53.17,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,50.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,44.3,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,51.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,56.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,57.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,55.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,42.9,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,52.99,Autoservicio,Supermercados DIA,gr
+Pastas,LUCCHETTI,500.0,53.0,Supermercado,Disco,gr
+Pastas,LUCCHETTI,500.0,52.0,Supermercado,Disco,gr
+Pastas,LUCCHETTI,500.0,53.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,51.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,55.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,53.17,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,50.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,42.9,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,54.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,52.99,Supermercado,Supermercados DIA,gr
+Pastas,LUCCHETTI,500.0,53.0,Supermercado,Disco,gr
+Pastas,LUCCHETTI,500.0,56.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,53.17,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,50.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,52.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,52.99,Supermercado,Supermercados DIA,gr
+Pastas,LUCCHETTI,500.0,53.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,500.0,57.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,63.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,62.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,54.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,58.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,44.4,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,56.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,64.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,44.9,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,61.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,59.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,46.9,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,57.69,Autoservicio,Supermercados DIA,gr
+Pastas,MATARAZZO,500.0,57.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,500.0,57.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,63.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,59.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,56.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,54.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,46.9,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,57.69,Supermercado,Supermercados DIA,gr
+Pastas,MATARAZZO,500.0,57.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,500.0,64.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,54.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,57.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,57.69,Supermercado,Supermercados DIA,gr
+Pastas,MATARAZZO,500.0,57.0,Supermercado,Disco,gr
+Pastas,DON VICENTE,500.0,98.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,102.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,99.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,104.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,80.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,92.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,108.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,89.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,76.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,91.99,Autoservicio,Supermercados DIA,gr
+Pastas,DON VICENTE,500.0,92.0,Supermercado,Disco,gr
+Pastas,DON VICENTE,500.0,108.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,80.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,92.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,99.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,104.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,91.99,Supermercado,Supermercados DIA,gr
+Pastas,DON VICENTE,500.0,92.0,Supermercado,Disco,gr
+Pastas,DON VICENTE,500.0,108.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,80.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,92.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,98.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,76.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,91.99,Supermercado,Supermercados DIA,gr
+Pastas,DON VICENTE,500.0,92.0,Supermercado,Disco,gr
+Pastas,LUCCHETTI,500.0,60.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,53.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,52.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,50.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,43.9,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,51.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,57.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,54.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,55.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,50.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,42.9,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,52.99,Autoservicio,Supermercados DIA,gr
+Pastas,LUCCHETTI,500.0,53.0,Supermercado,Disco,gr
+Pastas,LUCCHETTI,500.0,52.0,Supermercado,Disco,gr
+Pastas,LUCCHETTI,500.0,52.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,53.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,55.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,50.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,42.9,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,52.99,Supermercado,Supermercados DIA,gr
+Pastas,LUCCHETTI,500.0,53.0,Supermercado,Disco,gr
+Pastas,LUCCHETTI,500.0,55.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,46.4,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,52.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,52.99,Supermercado,Supermercados DIA,gr
+Pastas,LUCCHETTI,500.0,53.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,500.0,57.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,63.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,62.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,54.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,58.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,44.4,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,56.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,44.9,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,61.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,59.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,46.9,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,57.69,Autoservicio,Supermercados DIA,gr
+Pastas,MATARAZZO,500.0,57.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,500.0,57.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,63.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,59.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,56.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,54.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,46.9,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,57.69,Supermercado,Supermercados DIA,gr
+Pastas,MATARAZZO,500.0,57.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,500.0,64.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,54.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,57.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,57.69,Supermercado,Supermercados DIA,gr
+Pastas,MATARAZZO,500.0,57.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,500.0,78.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,86.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,75.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,73.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,80.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,88.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,82.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,71.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,79.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,69.99,Autoservicio,Supermercados DIA,gr
+Pastas,MATARAZZO,500.0,70.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,500.0,73.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,500.0,75.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,86.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,80.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,59.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,73.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,88.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,79.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,69.99,Supermercado,Supermercados DIA,gr
+Pastas,MATARAZZO,500.0,70.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,500.0,88.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,75.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,69.99,Supermercado,Supermercados DIA,gr
+Pastas,MATARAZZO,500.0,70.0,Supermercado,Disco,gr
+Pastas,DON VICENTE,500.0,92.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,99.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,98.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,94.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,102.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,101.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,93.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,80.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,89.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,76.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,89.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,80.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,98.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,76.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,80.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,93.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,DON VICENTE,500.0,92.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,FAVORITA,500.0,36.4,Hipermercado,Hipermercado Carrefour,gr
+Pastas,FAVORITA,500.0,41.5,Supermercado,Hipermercado Carrefour,gr
+Pastas,FAVORITA,500.0,39.7,Hipermercado,Hipermercado Carrefour,gr
+Pastas,FAVORITA,500.0,36.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,FAVORITA,500.0,35.1,Hipermercado,Hipermercado Carrefour,gr
+Pastas,FAVORITA,500.0,37.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,FAVORITA,500.0,40.8,Supermercado,Hipermercado Carrefour,gr
+Pastas,FAVORITA,500.0,37.7,Hipermercado,Hipermercado Carrefour,gr
+Pastas,FAVORITA,500.0,34.1,Hipermercado,Hipermercado Carrefour,gr
+Pastas,FAVORITA,500.0,39.6,Hipermercado,Hipermercado Carrefour,gr
+Pastas,FAVORITA,500.0,36.0,Supermercado,Disco,gr
+Pastas,FAVORITA,500.0,39.0,Supermercado,Disco,gr
+Pastas,FAVORITA,500.0,37.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,FAVORITA,500.0,39.7,Hipermercado,Hipermercado Carrefour,gr
+Pastas,FAVORITA,500.0,38.4,Hipermercado,Hipermercado Carrefour,gr
+Pastas,FAVORITA,500.0,35.1,Hipermercado,Hipermercado Carrefour,gr
+Pastas,FAVORITA,500.0,36.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,FAVORITA,500.0,40.8,Hipermercado,Hipermercado Carrefour,gr
+Pastas,FAVORITA,500.0,39.6,Hipermercado,Hipermercado Carrefour,gr
+Pastas,FAVORITA,500.0,36.0,Supermercado,Disco,gr
+Pastas,FAVORITA,500.0,35.1,Hipermercado,Hipermercado Carrefour,gr
+Pastas,FAVORITA,500.0,36.4,Hipermercado,Hipermercado Carrefour,gr
+Pastas,FAVORITA,500.0,36.0,Supermercado,Disco,gr
+Pastas,LUCCHETTI,500.0,60.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,52.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,50.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,44.3,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,51.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,56.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,57.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,54.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,55.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,50.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,42.9,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,52.99,Autoservicio,Supermercados DIA,gr
+Pastas,LUCCHETTI,500.0,53.0,Supermercado,Disco,gr
+Pastas,LUCCHETTI,500.0,52.0,Supermercado,Disco,gr
+Pastas,LUCCHETTI,500.0,52.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,53.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,51.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,55.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,50.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,42.9,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,52.99,Supermercado,Supermercados DIA,gr
+Pastas,LUCCHETTI,500.0,53.0,Supermercado,Disco,gr
+Pastas,LUCCHETTI,500.0,56.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,46.7,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,50.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,52.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,52.99,Supermercado,Supermercados DIA,gr
+Pastas,LUCCHETTI,500.0,53.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,500.0,57.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,63.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,54.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,44.8,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,58.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,64.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,44.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,59.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,56.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,46.9,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,57.69,Autoservicio,Supermercados DIA,gr
+Pastas,MATARAZZO,500.0,57.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,500.0,57.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,63.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,59.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,56.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,54.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,64.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,46.9,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,57.69,Supermercado,Supermercados DIA,gr
+Pastas,MATARAZZO,500.0,57.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,500.0,64.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,56.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,55.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,57.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,500.0,57.69,Supermercado,Supermercados DIA,gr
+Pastas,MATARAZZO,500.0,57.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,250.0,66.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,250.0,80.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,250.0,69.99,Autoservicio,Supermercados DIA,gr
+Pastas,MATARAZZO,250.0,79.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,250.0,69.99,Supermercado,Supermercados DIA,gr
+Pastas,MATARAZZO,250.0,79.0,Supermercado,Disco,gr
+Pastas,MATARAZZO,250.0,66.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,250.0,79.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,250.0,82.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,250.0,87.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,MATARAZZO,250.0,69.99,Supermercado,Supermercados DIA,gr
+Pastas,MATARAZZO,250.0,79.0,Supermercado,Disco,gr
+Pastas,LUCCHETTI,500.0,191.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,153.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,186.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,174.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,179.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,184.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,196.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,175.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,175.0,Supermercado,Disco,gr
+Pastas,LUCCHETTI,500.0,125.0,Supermercado,Disco,gr
+Pastas,LUCCHETTI,500.0,139.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,186.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,191.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,179.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,170.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,174.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,175.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,153.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,175.0,Supermercado,Disco,gr
+Pastas,LUCCHETTI,500.0,174.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,196.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,186.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,175.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,175.0,Supermercado,Disco,gr
+Pastas,LUCCHETTI,500.0,191.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,153.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,174.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,179.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,184.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,196.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,186.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,175.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,175.0,Supermercado,Disco,gr
+Pastas,LUCCHETTI,500.0,125.0,Supermercado,Disco,gr
+Pastas,LUCCHETTI,500.0,186.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,191.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,179.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,170.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,174.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,139.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,175.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,153.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,175.0,Supermercado,Disco,gr
+Pastas,LUCCHETTI,500.0,174.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,196.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,186.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,175.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,175.0,Supermercado,Disco,gr
+Pastas,LUCCHETTI,500.0,191.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,153.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,174.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,139.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,179.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,196.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,184.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,186.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,175.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,174.99,Autoservicio,Supermercados DIA,gr
+Pastas,LUCCHETTI,500.0,175.0,Supermercado,Disco,gr
+Pastas,LUCCHETTI,500.0,125.0,Supermercado,Disco,gr
+Pastas,LUCCHETTI,500.0,139.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,186.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,179.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,170.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,174.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,175.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,153.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,196.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,174.99,Supermercado,Supermercados DIA,gr
+Pastas,LUCCHETTI,500.0,175.0,Supermercado,Disco,gr
+Pastas,LUCCHETTI,500.0,174.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,196.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,186.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,175.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LUCCHETTI,500.0,174.99,Supermercado,Supermercados DIA,gr
+Pastas,LUCCHETTI,500.0,175.0,Supermercado,Disco,gr
+Pastas,LA SALTEÑA,500.0,128.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,500.0,125.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,500.0,130.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,500.0,134.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,500.0,75.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,500.0,120.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,500.0,123.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,500.0,132.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,500.0,112.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,500.0,119.99,Autoservicio,Supermercados DIA,gr
+Pastas,LA SALTEÑA,500.0,120.0,Supermercado,Disco,gr
+Pastas,LA SALTEÑA,500.0,116.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,500.0,134.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,500.0,120.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,500.0,119.99,Supermercado,Supermercados DIA,gr
+Pastas,LA SALTEÑA,500.0,120.0,Supermercado,Disco,gr
+Pastas,LA SALTEÑA,500.0,134.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,500.0,128.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,500.0,123.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,500.0,119.99,Supermercado,Supermercados DIA,gr
+Pastas,LA SALTEÑA,500.0,120.0,Supermercado,Disco,gr
+Pastas,LA SALTEÑA,500.0,128.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,500.0,130.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,500.0,134.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,500.0,75.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,500.0,120.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,500.0,123.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,500.0,132.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,500.0,119.99,Autoservicio,Supermercados DIA,gr
+Pastas,LA SALTEÑA,500.0,120.0,Supermercado,Disco,gr
+Pastas,LA SALTEÑA,500.0,116.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,500.0,134.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,500.0,120.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,500.0,123.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,500.0,119.99,Supermercado,Supermercados DIA,gr
+Pastas,LA SALTEÑA,500.0,120.0,Supermercado,Disco,gr
+Pastas,LA SALTEÑA,500.0,125.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,500.0,134.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,500.0,128.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,500.0,75.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,500.0,119.99,Supermercado,Supermercados DIA,gr
+Pastas,LA SALTEÑA,500.0,120.0,Supermercado,Disco,gr
+Pastas,LA SALTEÑA,300.0,95.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,300.0,118.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,300.0,113.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,300.0,114.0,Supermercado,Disco,gr
+Pastas,LA SALTEÑA,300.0,118.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,300.0,125.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,300.0,113.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,300.0,114.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,300.0,120.9,Supermercado,Disco,gr
+Pastas,LA SALTEÑA,300.0,105.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,300.0,113.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,300.0,118.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,300.0,120.9,Supermercado,Disco,gr
+Pastas,LA SALTEÑA,400.0,69.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,85.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,75.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,78.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,78.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,81.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,80.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,72.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,88.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,71.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,80.0,Autoservicio,Supermercados DIA,gr
+Pastas,LA SALTEÑA,400.0,77.0,Supermercado,Disco,gr
+Pastas,LA SALTEÑA,400.0,75.0,Supermercado,Disco,gr
+Pastas,LA SALTEÑA,400.0,75.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,81.33,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,85.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,76.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,78.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,80.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,71.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,79.99,Supermercado,Supermercados DIA,gr
+Pastas,LA SALTEÑA,400.0,77.0,Supermercado,Disco,gr
+Pastas,LA SALTEÑA,400.0,88.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,78.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,80.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,75.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,79.99,Supermercado,Supermercados DIA,gr
+Pastas,LA SALTEÑA,400.0,77.0,Supermercado,Disco,gr
+Pastas,LA SALTEÑA,400.0,75.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,69.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,78.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,78.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,81.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,80.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,88.0,Supermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,72.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,85.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,71.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,80.0,Autoservicio,Supermercados DIA,gr
+Pastas,LA SALTEÑA,400.0,75.0,Supermercado,Supermercados DIA,gr
+Pastas,LA SALTEÑA,400.0,77.0,Supermercado,Disco,gr
+Pastas,LA SALTEÑA,400.0,75.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,81.33,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,85.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,78.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,80.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,88.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,79.99,Supermercado,Supermercados DIA,gr
+Pastas,LA SALTEÑA,400.0,77.0,Supermercado,Disco,gr
+Pastas,LA SALTEÑA,400.0,88.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,78.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,78.5,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,80.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,75.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,71.0,Hipermercado,Hipermercado Carrefour,gr
+Pastas,LA SALTEÑA,400.0,79.99,Supermercado,Supermercados DIA,gr
+Pastas,LA SALTEÑA,400.0,75.0,Autoservicio,Supermercados DIA,gr
+Pastas,LA SALTEÑA,400.0,77.0,Supermercado,Disco,gr
+Pastas,LA SALTEÑA,400.0,75.0,Supermercado,Disco,gr
+Arroz,GALLO,200.0,136.0,Hipermercado,Hipermercado Carrefour,gr
